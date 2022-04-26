@@ -6,5 +6,6 @@ public class TestGit {
         System.out.println("Hello Git Too");
         System.out.println("Hello Git Again");
         System.out.println("Hello Git From hot-fix");
+        System.out.println("hot-fix commit");
     }
 }
