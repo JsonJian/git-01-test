@@ -11,5 +11,6 @@ public class TestGit {
         System.out.println("push commit");
         System.out.println("pull commit");
         System.out.println("Gitee push");
+        System.out.println("Gitee pull");
     }
 }
